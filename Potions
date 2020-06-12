@@ -1,4 +1,7 @@
 {
+"potions":[
+
+{
     "id": "1",
     "name": Healing Potion,
     "description": "ab8945af-57ab-49b4-a3e1-4d084132553d",
@@ -49,3 +52,5 @@
         "description": "ab8945af-57ab-49b4-a3e1-4d084132553d"
       }
   }
+]
+}
