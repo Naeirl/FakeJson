@@ -1,6 +1,4 @@
 {
-"potions":[
-{
     "id": "1",
     "name": Ammo Reservation Potion,
     "description": "The Ammo Reservation Potion is a buff potion.",
@@ -75,5 +73,3 @@
         "description": "Rotten Chunk"
       }
   }
-]
-}
