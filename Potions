@@ -1,0 +1,51 @@
+{
+    "id": "1",
+    "name": Healing Potion,
+    "description": "ab8945af-57ab-49b4-a3e1-4d084132553d",
+    "imgId": "http://placehold.it/32x32",
+    "ingredients": [
+      {
+        "id": "1",
+        "img": "http://placehold.it/32x32",
+        "name": "Water Bottle",
+        "description": "ab8945af-57ab-49b4-a3e1-4d084132553d"
+      },
+      {
+        "id": "4",
+        "img": "http://placehold.it/32x32",
+        "name": "Mushroom",
+        "description": "ab8945af-57ab-49b4-a3e1-4d084132553d"
+      },
+      {
+        "id": "5",
+        "img": "http://placehold.it/32x32",
+        "name": "Nightshade",
+        "description": "ab8945af-57ab-49b4-a3e1-4d084132553d"
+      }
+  },
+  {
+    "id": "2",
+    "name": Potion,
+    "description": "ab8945af-57ab-49b4-a3e1-4d084132553d",
+    "imgId": "http://placehold.it/32x32",
+    "ingredients": [
+      {
+        "id": "1",
+        "img": "http://placehold.it/32x32",
+        "name": "Water Bottle",
+        "description": "ab8945af-57ab-49b4-a3e1-4d084132553d"
+      }
+  },
+  {
+    "id": "3",
+    "name": Potion,
+    "description": "ab8945af-57ab-49b4-a3e1-4d084132553d",
+    "imgId": "http://placehold.it/32x32",
+    "ingredients": [
+      {
+        "id": "1",
+        "img": "http://placehold.it/32x32",
+        "name": "Water Bottle",
+        "description": "ab8945af-57ab-49b4-a3e1-4d084132553d"
+      }
+  }
