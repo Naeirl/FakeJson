@@ -1,0 +1,21 @@
+[{
+		"id": 1,
+		"name": "Buff Potions"
+	},
+	{
+		"id": 2,
+		"name": "Recovery Potions"
+	},
+	{
+		"id": 3,
+		"name": "Flasks"
+	},
+	{
+		"id": 4,
+		"name": "Other Potions"
+	},
+	{
+		"id": 5,
+		"name": "Food Drink Potions"
+	}
+]
