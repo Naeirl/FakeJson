@@ -1,75 +1,19 @@
-{
-    "id": "1",
-    "name": Ammo Reservation Potion,
-    "description": "The Ammo Reservation Potion is a buff potion.",
-    "imgId": "http://placehold.it/32x32",
-    "ingredients": [
-      {
-        "id": "1",
-        "img": "http://placehold.it/32x32",
-        "name": "Bottled Water",
-        "description": "Bottled Water"
-      },
-      {
-        "id": "2",
-        "img": "http://placehold.it/32x32",
-        "name": "Double Cod",
-        "description": "Double Cod"
-      },
-      {
-        "id": "3",
-        "img": "http://placehold.it/32x32",
-        "name": "Moonglow",
-        "description": "Moonglow"
-      }
-  },
-  {
-    "id": "2",
-    "name": Archery Potion,
-    "description": "The Archery Potion is a buff potion.",
-    "imgId": "http://placehold.it/32x32",
-    "ingredients": [
-      {
-        "id": "1",
-        "img": "http://placehold.it/32x32",
-        "name": "Bottled Water",
-        "description": "Bottled Water"
-      },
-      {
-        "id": "4",
-        "img": "http://placehold.it/32x32",
-        "name": "Daybloom",
-        "description": "Daybloom"
-      },
-      {
-        "id": "5",
-        "img": "http://placehold.it/32x32",
-        "name": "Lens",
-        "description": "Lens"
-      }
-  },
-  {
-    "id": "3",
-    "name": Battle Potion,
-    "description": "The Battle Potion is a buff potion.",
-    "imgId": "http://placehold.it/32x32",
-    "ingredients": [
-      {
-        "id": "1",
-        "img": "http://placehold.it/32x32",
-        "name": "Bottled Water",
-        "description": "Bottled Water"
-      },
-      {
-        "id": "6",
-        "img": "http://placehold.it/32x32",
-        "name": "Deathweed",
-        "description": "Deathweed"
-      },
-      {
-        "id": "7",
-        "img": "http://placehold.it/32x32",
-        "name": "Rotten Chunk",
-        "description": "Rotten Chunk"
-      }
-  }
+[{
+		"id": 1,
+		"name": "Ammo Reservation Potion",
+		"description": "The Ammo Reservation Potion is a buff potion.",
+		"imgId": 1
+	},
+	{
+		"id": 2,
+		"name": "Archery Potion",
+		"description": "The Archery Potion is a buff potion.",
+		"imgId": 1
+	},
+	{
+		"id": 3,
+		"name": "Battle Potion",
+		"description": "The Battle Potion is a buff potion.",
+		"imgId": 1
+	}
+]
