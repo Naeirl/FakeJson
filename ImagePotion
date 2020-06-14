@@ -1,16 +1,16 @@
 [{
 		"id": 1,
 		"name": "Ammo Reservation Potion",
-		"imageID": 1
+		"imageID": null
 	},
 	{
 		"id": 2,
 		"name": "Archery Potion",
-		"imageID": 1
+		"imageID": null
 	},
 	{
 		"id": 3,
 		"name": "Battle Potion",
-		"imageID": 1
+		"imageID": null
 	}
 ]
