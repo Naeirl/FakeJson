@@ -9,5 +9,9 @@
 	{
 		"categoryId": 1,
 		"potionId": 3
+	},
+	{
+		"categoryId": 1,
+		"potionId": 4
 	}
 ]
