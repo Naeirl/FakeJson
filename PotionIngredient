@@ -33,5 +33,17 @@
 	{
 		"potionId": 3,
 		"ingredientId": 3
+	},
+	{
+		"potionId": 4,
+		"ingredientId": 1
+	},
+	{
+		"potionId": 4,
+		"ingredientId": 2
+	},
+	{
+		"potionId": 4,
+		"ingredientId": 3
 	}
 ]
