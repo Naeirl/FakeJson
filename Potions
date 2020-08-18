@@ -16,10 +16,4 @@
 		"description": "The Battle Potion is a buff potion.",
 		"imgId": 1
 	}
-	{
-		"id": 4,
-		"name": "Teleportation Potion",
-		"description": "The Teleportation Potion is a buff potion.",
-		"imgId": 1
-	}
 ]
