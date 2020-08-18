@@ -12,5 +12,10 @@
 		"id": 3,
 		"name": "Battle Potion",
 		"imageID": 1
+	},
+	{
+		"id": 3,
+		"name": "Teleportation Potion",
+		"imageID": 1
 	}
 ]
